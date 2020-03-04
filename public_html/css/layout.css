@@ -43,6 +43,29 @@ body{
 .leftCol{
     float:left;
     width: 75%;
+
+
+}
+
+.fakeimg{
+    background-color: #aaa;
+    width: 100%;
+    padding: 20px;
+}
+
+.card{
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    
+}
+
+
+.rightCol{
+    float:left;
+    width: 25%;
+    background-color: #f1f1f1;
+    padding-left: 20px;
     border: 1px solid #000;
 }
 
